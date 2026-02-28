@@ -1,0 +1,9 @@
+.masonry {
+  column-count: 4;
+  column-gap: 16px;
+}
+
+.pin {
+  break-inside: avoid;
+  margin-bottom: 16px;
+}
